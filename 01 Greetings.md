@@ -16,6 +16,16 @@ First person singular of verbs ending with `-i` like `děkuji` is more formal, t
 
 The same applies to the third person plural ending `-í/-ou`. The former is rather formal, the latter is more colloquial.
 
+There are more types of verbs that are mentioned in the textbook. Actually there are _five_ verb classes and these are then split into even more paradigms. The infinitive ending is a feasible hint to determine the conjugation, it is however not enough to be sure. Good news is that in the present tense, the conjugation is usually the same across all the paradigms in a class. A good practice is to remember a 3rd person present tense singular (_dělá_, _rozumí_…). This form can be use to determine the class; it also contains all stem changes that might occur.
+
+Many verbs that end with `-at` in the infinitive can be declined as the verb _dělat_ (5th class), even though they belong to a different verb class (_česat_, _kopat_). This simple conjugations (_česám_, _kopám_ instead of _češu_, _kopu_)however sounds rather vulgar.
+
+There are some verbs mentioned in the `-í` verbs conjugation table, the present tense forms are however not included. Moreover, the verb _jíst_ is irregular. They conjugate like this: 
+
+* jíst – jím, jíš, jí, jíme, jíte, je**dí** (irregular)
+* spát – spím, spíš, spí, spíme, spíte, spí
+* stát – st**oj**ím, st**oj**íš, st**oj**í, st**oj**íme, st**oj**íte, st**oj**í
+
 ### Prepositions ###
 
 Prepositions that end with a consonant may add `-e` if the the next word begins with an incompatible consonants. The rules are however quite complex and not always clear. Compare: “Jsem z Dánska.” to “Jsem ze Slovenska.” or “Vyšel ze dveří.”.
@@ -31,7 +41,9 @@ Numerals _one_ and _two_ take different forms depending on the gender. The numbe
 * jeden / jedna / jedno
 * dva / dvě / dvě
 
-When telling single digits, the number _one_ is often used in feminine as “jedna” and number two in masculine as “dva”. When counting or tallying, a word “raz” is often used for _one_.
+When telling single digits, the number _one_ is often used in feminine as “jedna” and number two in masculine as “dva”. When counting or tallying, a word “raz” is often used for _one_: “Raz, dva, tři…”
+
+Number zero is only rarely used when counting things. Instead of “nula”, word “žádný/žádná/žádné” meaning _none_ is used.
 
 ## Pronunciation ##
 
