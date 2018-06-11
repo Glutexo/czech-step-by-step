@@ -26,9 +26,13 @@ There are some verbs mentioned in the `-í` verbs conjugation table, the present
 * spát – spím, spíš, spí, spíme, spíte, spí
 * stát – st**oj**ím, st**oj**íš, st**oj**í, st**oj**íme, st**oj**íte, st**oj**í
 
+@TODO Duality of verbs
+
 ### Prepositions ###
 
 Prepositions that end with a consonant may add `-e` if the the next word begins with an incompatible consonants. The rules are however quite complex and not always clear. Compare: “Jsem z Dánska.” to “Jsem ze Slovenska.” or “Vyšel ze dveří.”.
+
+@TODO Explain when
 
 ### Pronouns ###
 
