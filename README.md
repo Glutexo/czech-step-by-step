@@ -1,5 +1,15 @@
 # Czech Step by Step #
 
+## Index ##
+
+* Introduction (you are here)
+* Lesson 0
+  * [Pronunciation and Orthography](00%20Pronunciation%20and%20Orthography.md)
+  * [Vocabulary](00%20Vocabulary.md)
+* Lesson 1
+  * [Greetings](01%20Greetings.md)
+  * [Vocabulary](01%20Vocabulary.md)
+
 ## Purpose ##
 
 This is a collection of additional information for Czech language learners using the [Czech Step by Step] textbook. It focuses on students that are interested in deeper understanding of how the language works in a systematic and more complete way.
