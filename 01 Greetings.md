@@ -12,13 +12,13 @@ The affirmative clause “ano” is in the colloquial language often shortened t
 
 ### Verbs ###
 
-First person singular of verbs ending with `-i` like `děkuji` is more formal, the `-u` ending is more colloquial. When spoken, they can be freely interchange without sounding rude or on the other hand pretentions. In a written form the `-u` ending looks a little vulgar though.
+First person singular of verbs ending with `-i` like `děkuji` is more formal, the `-u` ending is more colloquial. When spoken, they can be freely interchanged without sounding rude or on the other hand pretentious. In a written form the `-u` ending looks a little vulgar though.
 
 The same applies to the third person plural ending `-í/-ou`. The former is rather formal, the latter is more colloquial.
 
 There are more types of verbs that are mentioned in the textbook. Actually there are _five_ verb classes and these are then split into even more paradigms. The infinitive ending is a feasible hint to determine the conjugation, it is however not enough to be sure. Good news is that in the present tense, the conjugation is usually the same across all the paradigms in a class. A good practice is to remember a 3rd person present tense singular (_dělá_, _rozumí_…). This form can be use to determine the class; it also contains all stem changes that might occur.
 
-Many verbs that end with `-at` in the infinitive can be declined as the verb _dělat_ (5th class), even though they belong to a different verb class (_česat_, _kopat_). This simple conjugations (_česám_, _kopám_ instead of _češu_, _kopu_)however sounds rather vulgar.
+Many verbs that end with `-at` in the infinitive can be declined as the verb _dělat_ (5th class), even though they belong to a different verb class (_česat_, _kopat_). This simple conjugations (_česám_, _kopám_ instead of _češu_, _kopu_) however sound rather vulgar.
 
 There are some verbs mentioned in the `-í` verbs conjugation table, the present tense forms are however not included. Moreover, the verb _jíst_ is irregular. They conjugate like this: 
 

@@ -74,8 +74,8 @@
 * `%` – procento
 * `;` – středník
 * `:` – dvojtečka
-* `()` – závorky; `[]` _hranaté_, _<>_ ostré/špičaté, _{}_ složené (sometimes called chlupaté, vousaté, kudrnaté…)
 * `=` – rovná se/rovnítko 
+* `()` – závorky; `[]` _hranaté_, `<>` ostré/špičaté, _{}_ složené (sometimes called chlupaté, vousaté, kudrnaté…)
 
 ## Word bank ##
 
