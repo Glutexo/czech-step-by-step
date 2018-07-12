@@ -16,6 +16,8 @@
 * Jsem z Ostravy. Jsem Ostravan. – I am from Ostrava. I am an Ostrava guy.
 * Jsem z Frýdku. Jsem Frýdečan. – I am from Frýdek. I am a Frýdek guy.
 
+In spoken language the suffix _-ák_ is often used instead of the correct _-an_: Pražák, Brňák, Ostravák, Frýdečák. These may sound a little pejorative, on the other hand the correct forms may sound somehow pretentious.
+
 ## Phrases ##
 
 * Co děláš? Co děláte? – What are you doing?
@@ -74,8 +76,8 @@
 * `%` – procento
 * `;` – středník
 * `:` – dvojtečka
-* `=` – rovná se/rovnítko 
 * `()` – závorky; `[]` _hranaté_, `<>` ostré/špičaté, _{}_ složené (sometimes called chlupaté, vousaté, kudrnaté…)
+* `=` – rovná se/rovnítko, use _se rovná_ in mathematical equations
 
 ## Word bank ##
 
