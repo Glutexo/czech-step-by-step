@@ -76,7 +76,7 @@ In spoken language the suffix _-ák_ is often used instead of the correct _-an_:
 * `%` – procento
 * `;` – středník
 * `:` – dvojtečka
-* `()` – závorky; `[]` _hranaté_, `<>` ostré/špičaté, _{}_ složené (sometimes called chlupaté, vousaté, kudrnaté…)
+* `()` – závorky; `[]` hranaté, `<>` ostré/špičaté, _{}_ složené (sometimes called chlupaté, vousaté, kudrnaté…)
 * `=` – rovná se/rovnítko, use _se rovná_ in mathematical equations
 
 ## Word bank ##
