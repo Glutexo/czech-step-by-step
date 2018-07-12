@@ -26,6 +26,10 @@ Moreover, this repository contains extended vocabulary lists based on the words 
 
 This material is a supplement for a Czech for foreigners textbook [Czech Step by Step] by [Lída Holá]. The beginners’ part of the book is issued in various language versions and consists of a main book with lessons, a word lists and grammar tables, and a CD with audio recordings. Exercise book comes in two parts that has to be purchased separately.
 
+## Format ##
+
+@TODO Vocabulary
+
 ## Author ##
 
 I am not affilated in any way neither with the authors of the aforementioned textbook, nor with its issuer. You can buy the book in the author’s official [e-shop] or in [any decent bookstore][1].
