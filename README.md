@@ -14,7 +14,10 @@
   * [Locations](02%20Locations.md)
   * [Vocabulary](02%20Vocabulary.md)
   * [Summary](02%20Summary.md)
-
+* Lesson 3
+  * [Food and beverages](02%20Food%20and%20beverages.md)
+  * [Vocabulary](02%20Vocabulary.md)
+  * [Summary](02%20Summary.md)
 
 ## Purpose ##
 
