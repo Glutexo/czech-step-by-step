@@ -36,3 +36,22 @@ Conjunctions, particles, all those words that connect sentences or make introduc
 * co to – what’s that
 * dobrá, dobře – well, okay
 * to nic – that’s nothing, no problem
+
+## Demonstrative pronouns ##
+
+### Ten, ta, to, ti, ty, ta ##
+
+First half is singular, second half is plural
+
+|Case           |Masculine|Feminine|Neuter|Masculine|Feminine|Neuter|
+|---------------|---------|--------|------|---------|--------|------|
+|Nominative     |ten      |ta      |to    |ti/ty²   |ty      |ta    |
+|Genitive       |toho     |té      |toho  |těch     |těch    |těch  |
+|Dative         |tomu     |té      |tomu  |těm      |těm     |těm   |
+|Accusative     |toho/ten²|ta      |to    |ty       |ty      |ta    |
+|Vocative       |—        |—       |—     |—        |—       |—     |
+|Locative       |tom      |té      |tom   |těch     |těch    |těch  |
+|Instrumentative|tím      |tou     |tím   |těmi¹    |těmi¹   |těmi¹ |
+
+* ¹ Dual form is _těma_.
+* ² First form is animate, second is inanimate
