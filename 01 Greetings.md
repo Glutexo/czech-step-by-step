@@ -59,4 +59,4 @@ The forms of verb “být” that begin with `j` are pronounced with or without 
 
 The masculine variants of profession names don’t necessarily refer only to male people. “student” can be a _generic_ student without a specified gender or a _male_ student. “studentka” on the other hand means only a _female_ student.
 
-Even though making female nouns is kind of productive, some may sound very unnatural. “doktorka” is very common and sounds natural, words like “koučka” sound strange and funny. Be cautious when making them. 
+Even though making female nouns is kind of productive, some may sound very unnatural. “doktorka” is very common and sounds natural, words like “koučka” or “lídryně” sound strange and funny. Be cautious when making them. 
