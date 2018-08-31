@@ -63,3 +63,52 @@ There are some patterns to note:
 * Neuter plural is same as feminine singular in nominative. This is the same pattern as that of verb past tense.
 * The plural forms are the same for all genders. The only exception is masculine animate nominative.
 * The dual (-a) and plural (-i) instrumentative ending distinction is the same as in all other declination paradigms.
+
+## Verbs ##
+
+### Movement verbs – jít, jet, chodit, jezdit ###
+
+Conjugation of the one-time (jít, jet) verbs is fairly irregular. The repetitive verbs are regular though. Also note that unlike in some other Slavic languages, the verb _jet_ (to drive) never changes its stem to _jecha-_.
+
+#### Present tense ####
+
+|Person|jít |jet  |jít  |jet   |
+|------|----|-----|-----|------|
+|1st   |jdu |jedu |jdeme|jedeme|
+|2nd   |jdeš|jedeš|jdete|jedete|
+|3rd   |jde |jede |jdou |jedou |
+
+The difference between the verbs _jít_ (to walk) and _jet_ (to drive) in present tense is only in the inserted _e_.
+
+|Person|chodit|jezdit|chodit |jezdit |
+|------|------|------|-------|-------|
+|1st   |chodím|jezdím|chodíme|jezdíme|
+|2nd   |chodíš|jezdíš|chodíte|jezdíte|
+|3rd   |chodí |jezdí |chodí  |jezdí  |
+
+Both of the verbs _chodit_ (to walk) and _jezdit_ (to drive) are 4th class (or -í class) verbs and both in the present and past tens they conjugate the same. The endings are attached to the stable stem (chodí/jezdí), the 3rd person has zero stem both in singular and plural. (Note: In some dialects, the plural might have a non-standard ending, becoming jezdijou, chodijou. Do not say it that way.)
+
+#### Past tense ####
+
+Just as with every other verbs:
+
+* The masculine inanimate form is identical to the masculine animate in sigular and to the feminine in plural.
+* The neuter plural form is identical to the feminine singular.
+
+|Gender             |jít |jet |jít|jet |
+|-------------------|----|----|---|----|
+|Masculine animate  |šel |jel |šli|jeli|
+|Masculine inanimate|šel |jel |šli|jely|
+|Feminine           |šla |jela|šly|jely|
+|Neuter             |šlo |jelo|šla|jela|
+
+The past tense stem of the verb jít (to walk) is completely irregular. The past tense verb stem of jet (to drive) loses the _d_. Also note that although the masculine singular is simillar, in other forms the verbs differ in the presence of _e_ in the stem.
+
+|Gender             |chodit |jezdit |chodit |jezdit |
+|-------------------|-------|-------|-------|-------|
+|Masculine animate  |chodil |jezdil |chodili|jezdili|
+|Masculine inanimate|chodil |jezdil |chodily|jezdily|
+|Feminine           |chodila|jezdila|chodily|jezdily|
+|Neuter             |chodilo|jezdilo|chodila|jezdila|
+
+These verbs are completely regular and conjugate the same. The past stem is identical to the present one.
