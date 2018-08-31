@@ -55,3 +55,11 @@ First half is singular, second half is plural
 
 * ¹ Dual form is _těma_.
 * ² First form is animate, second is inanimate
+
+There are some patterns to note:
+
+* Only masculine animate (both singular and plural) and feminine (only singular) variants have different nominative and accusative forms. Masculine animate accusative is identical to its genitive in singular and to the masculine inanimate variant in plural. This pattern applies to every declination.
+* Neuter singular forms differ from the masculine ones only in nominative and accusative. These two cases are identical for every neuter declension. The sameness of neuter and masculine forms is very common for pronouns.
+* Neuter plural is same as feminine singular in nominative. This is the same pattern as that of verb past tense.
+* The plural forms are the same for all genders. The only exception is masculine animate nominative.
+* The dual (-a) and plural (-i) instrumentative ending distinction is the same as in all other declination paradigms.
