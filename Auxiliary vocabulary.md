@@ -48,7 +48,7 @@ First half is singular, second half is plural
 |Nominative     |ten      |ta      |to    |ti/ty²   |ty      |ta    |
 |Genitive       |toho     |té      |toho  |těch     |těch    |těch  |
 |Dative         |tomu     |té      |tomu  |těm      |těm     |těm   |
-|Accusative     |toho/ten²|ta      |to    |ty       |ty      |ta    |
+|Accusative     |toho/ten²|tu      |to    |ty       |ty      |ta    |
 |Vocative       |—        |—       |—     |—        |—       |—     |
 |Locative       |tom      |té      |tom   |těch     |těch    |těch  |
 |Instrumentative|tím      |tou     |tím   |těmi¹    |těmi¹   |těmi¹ |
