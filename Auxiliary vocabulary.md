@@ -98,7 +98,7 @@ Just as with every other verbs:
 |Gender             |jít |jet |jít|jet |
 |-------------------|----|----|---|----|
 |Masculine animate  |šel |jel |šli|jeli|
-|Masculine inanimate|šel |jel |šli|jely|
+|Masculine inanimate|šel |jel |šly|jely|
 |Feminine           |šla |jela|šly|jely|
 |Neuter             |šlo |jelo|šla|jela|
 
