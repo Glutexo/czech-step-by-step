@@ -20,6 +20,7 @@
   * [Summary](02%20Summary.md)
 * Appendix
   * [Vocabulary](Auxiliary%20vocabulary.md)
+  * [Grammar](Auxiliary%20grammar.md)
 
 ## Purpose ##
 
