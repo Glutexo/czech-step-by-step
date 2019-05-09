@@ -1,0 +1,319 @@
+---
+- - tramvaj
+  - - a streetcar
+  - - - tramvajový
+      - - belonging to/concerning a streetcar
+    - - tramvajka
+      - - (regional, colloquial) a streetcar
+    - - tramvajenka
+      - - a transportation ticket
+        - (regional) a long-time transportation pass
+- - autobus
+  - - a bus
+  - - - trolejbus
+      - - a trolleybus
+    - - mikrobus
+      - - a van
+        - a marshrutka
+    - - autobusový
+      - - belonging to/concerning a bus
+    - - autobusák
+      - - (colloquial, from “autobusové nádraží”) a bus terminal
+        - (colloquial, from “řidič autobusu”) a bus driver
+- - kino
+  - - a movie theater
+  - - - multikino
+      - - a multiplex cinema
+    - - kinosál
+      - - a movie theater room
+    - - kinopremiéra
+      - - an opening night at the cinemas
+    - - kinofilm
+      - - a movie screened at the cinemas
+    - - kinoplátno
+      - - a movie screen at the cinema
+- - auto
+  - - a car
+  - - - automobil
+      - - an automobile
+    - - autostop
+      - - hitchhiking by car
+    - - autorádio
+      - - a car radio
+    - - autoškola
+      - - a driving school
+    - - autíčko
+      - - (diminutive) a small/precious car
+        - a toy car
+- - škola
+  - - a school
+  - - - autoškola
+      - - a driving school
+    - - školní
+      - - belonging to/concerning a school
+    - - školník
+      - - a school janitor
+    - - školka
+      - - a pre-school
+    - - školák
+      - - an elementary school pupil
+    - - školit
+      - - to teach a new skill in a session
+- - hotel
+  - - a hotel
+  - - - hotelový
+      - - belonging to/concerning a hotel
+    - - hoteliér
+      - - a director of a hotel
+    - - motel
+      - - a motel
+    - - botel
+      - - a botel
+- - student
+  - - a student
+  - - - studentský
+      - - concerning students or studentship
+    - - studentka
+      - - a female student
+    - - študák
+      - - (colloquially) a student
+- - profesor
+  - - a professor
+    - a high school/university teacher
+  - - - profesorský
+      - - concerning/belonging to professors
+    - - profesura
+      - - a study program to become a professor
+        - a state of being a professor
+    - - profesorka
+      - - a female professor
+        - a female high school/university teacher
+- - doktor
+  - - a doctor
+  - - - doktorský
+      - - concerning/belonging to doctors
+    - - doktorand
+      - - a student studying for a doctor’s degree
+    - - doktorka
+      - - a female doctor
+- - manažer
+  - - a manager
+  - - - manažerský
+      - - concerning/belonging to managers
+    - - manažerka
+      - - a female manager
+- - prezident
+  - - a president
+  - - - prezidentský
+      - - concerning/belonging to presidents
+    - - prezidentka
+      - - a female president
+    - - prezidentura
+      - - a state of being a president
+- - politik
+  - - a politician
+  - - - politička
+      - - a female politician
+- - supermarket
+  - - a supermarket
+  - - - hypermarket
+      - - a big supermarket with adjanced smaller stores and restaurants
+- - kontakt
+  - - a contact
+  - - - kontaktní
+      - - contact
+    - - kontaktovat
+      - - to contact
+- - mítink
+  - - a meeting
+  - - - mítinkovka
+      - - (colloquial, from “mítinková místnost”) a meeting room
+- - koncert
+  - - a concert
+  - - - koncertní
+      - - concerning a concert
+    - - koncertovat
+      - - to make a concert
+- - problém
+  - - a problem
+  - - - problémový
+      - - making problems
+- - film
+  - - a movie
+    - a film (a physical medium)
+    - a film (a thin layer)
+  - - - filmový
+      - - concerning a movie
+    - - kinofilm
+      - - a movie screened at the cinemas
+    - - filmovat
+      - - to shoot a movie
+        - (colloquially) to fake
+- - program
+  - - a program (a set o instructions)
+    - a program (an application)
+    - a program (an agenda)
+    - a program (a tv/radio show)
+  - - - programovat
+      - - to program (to record instructions)
+        - to develop software
+    - - programový
+      - - programmatic
+    - - programátor
+      - - a programmer (a software developer)
+        - a programmer (a programming device)
+- - univerzita
+  - - a university
+  - - - univerzitní
+      - - concerning/belonging to a university
+- - restaurace
+  - - a restaurant
+    - restoration (professional repair)
+  - - - restaurační
+      - - concerning a restaurant
+    - - restaurovat
+      - - restore (repair professionaly)
+- - konference
+  - - a conference
+  - - - konferenční
+      - - concerning a conference
+- - policie
+  - - a police
+  - - - policejní
+      - - concerning/belonging to a police
+    - - policista
+      - - a cop
+    - - městapo
+      - - (colloquialy, from “městská policie” and “gestapo”) a municipal police
+- - metro
+  - - a subway
+    - (a free-of-charge newspaper name)
+- - víno
+  - - wine
+  - - - vinný
+      - - concerning/made of wine
+    - - vínová
+      - - wine color
+    - - viněta
+      - - a wine label
+    - - vinobraní
+      - - wine harvesting
+        - a wine festival
+    - - vinotéka
+      - - a wine store
+    - - vinař
+      - - a winemaker
+        - a person who prefers wine
+- - rádio
+  - - a radio station
+    - a radio (a receiver/transmitter)
+    - a radio (a household appliance)
+  - - - rádiový
+      - - concerning a radio
+    - - rádiovka
+      - - a cap with an antenna-like decoration
+    - - autorádio
+      - - a car radio
+    - - radiostanice
+      - a radio receiving/transmitting facility
+    - - radioamatér
+      - a hobby radio guy
+    - - radista
+      - a professional radio guy
+    - - radioaktivní
+      - - radioactive
+- - espresso
+  - - an espresso coffee
+  - - - presso
+      - - (colloquially) an espresso coffee
+- - centrum
+  - - a center (a cental area)
+    - a center (a facility)
+  - - - centrální
+      - - central
+    - - centrický
+      - - centric
+    - - centrifuga
+      - a centrifuge
+    - - centrovat
+      - - to calibrate to the center
+- - energický
+  - - energic
+  - - - energie
+      - - energy
+- - optimistický
+  - - optimistic
+  - - - optimista
+      - - an optimist
+- - moderní
+  - - modern
+  - - - moderna
+      - - modern style
+    - - modernistický
+      - - modernistic
+    - - móda
+      - - fashion
+- - kvalitní
+  - - (high-)quality
+  - - - kvalita
+      - - quality
+    - - kválium
+      - - a quale
+- - aktivní
+  - - active (in motion)
+    - active (leading an active life)
+  - - - aktivita
+      - - an activity
+    - - aktivum
+      - - an active asset
+    - - aktivovat
+      - - to activate
+    - - aktivizovat
+      - - to turn into an active form
+- - inteligentní
+  - - intelligent
+  - - - inteligence
+      - - an intelligance (a trait)
+- - studovat
+  - - to study
+  - - - studium
+      - - a study (learning)
+    - - student
+      - - a student
+    - - studovna
+      - - a study (a room)
+- - telefonovat
+  - - to call by phone (imperf.)
+  - - - telefon
+      - - a phone
+    - - zatelefonovat
+      - - to make a phone call (perf.)
+- - plánovat
+  - - to plan (imperf.)
+  - - - plán
+      - - a plan
+    - - naplánovat
+      - - to make a plan (perf.)
+    - - plánovací
+      - - (intended to be used for) planning
+    - - plánovač
+      - - (from “plánovací kalendář”) a sophisticated diary
+        - a planning person
+- - organizovat
+  - - to organize (imperf.)
+  - - - organizér
+      - - an organizer (a person)
+        - an organizer (a diary)
+    - - organizace
+      - - an organization (a company)
+        - organization (a process)
+    - - zorganizovat
+      - - to organize (perf.)
+- - komunikovat
+  - - to communicate (imperf. intrans.)
+    - to use in a marketing communication (imperf. trans.)
+  - - - komunikace
+      - - communication
+        - a road
+    - - vykomunikovat
+      - - (colloquially) to resolve by communication (perf.)
